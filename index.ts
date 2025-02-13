@@ -61,5 +61,4 @@ const fetchData = async () => {
   await browser.close();
 };
 
-// Calling the fetchData function to start the scraping process
 fetchData();
