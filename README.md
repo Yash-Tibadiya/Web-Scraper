@@ -76,6 +76,6 @@ YOUR_REPO_NAME/
 
 ## License
 
-[MIT License]
+[MIT License](https://github.com/Yash-Tibadiya/Web-Scraper/blob/main/LICENSE)
 
 Feel free to contribute to this project!
