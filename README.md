@@ -50,7 +50,7 @@ The script generates two output files:
 ## Project Structure
 
 ```
-YOUR_REPO_NAME/
+Web-Scraper/
 ├── index.js            # The main scraper script
 ├── package.json        # Project dependencies and scripts
 ├── package-lock.json   # Records the exact versions of dependencies
